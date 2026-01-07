@@ -17,4 +17,5 @@ europe = [
   ['Rethymno, Crete, Greece',35.3690847,24.5187262]
   ['Harlech, Wales',52.8599306,-4.1090319]
   ['Betws-y-Coed, Wales',53.0923628,-3.8013087]
+  ['Narberth, Wales',51.781983,-4.8085441]
 ]
